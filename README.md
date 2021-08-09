@@ -32,3 +32,11 @@ I am also a Visual Analytics Researcher at Dalhousie University and my latest wo
 📈 My Github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipankarqlik&show_icons=true&theme=gotham" alt="dipankarqlik" />
+
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://dipankar-tnt.medium.com/building-a-visual-text-analytics-app-using-qlik-and-machine-learning-techniques-in-nodejs-part-2-afaf139b6e26"><b> Building a Visual Text Analytics app using Qlik and Machine Learning techniques in NodeJS -Part 2</b></a><br/><i>Step-by-step tutorial to build a Visual Text Analytics app using Qlik and Machine Learning techniques.</i></li>
+  <li><a href="https://dipankar-tnt.medium.com/building-a-visual-text-analytics-app-using-qlik-and-machine-learning-techniques-in-nodejs-part-1-5adaa73f290a"><b> Building a Visual Text Analytics app using Qlik and Machine Learning techniques in NodeJS — Part 1</b></a><br/><i> High-level architecture design for building a Visual Text Analytics app</i></li>
+  <li><a href="https://dipankar-tnt.medium.com/visual-analytics-a-primer-4a912819ad29"><b>Visual Analytics - a Primer</b></a><br/><i>What is Visual Analytics? How is it different from Information visualization?</i></li>
+  <li><a href="https://dipankar-tnt.medium.com/building-your-first-qlik-sense-chatbot-using-the-natural-language-api-c5b9bcfed7cc"><b>Building your first Qlik Sense ChatBot using the Natural Language API</b></a><br/><i>Want to build Qlik Chatbots? Learn how to.</i></li>
+</ul>
