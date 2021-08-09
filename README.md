@@ -43,8 +43,10 @@ I am also a Visual Analytics Researcher at Dalhousie University and my latest wo
 
 📈 My Github stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=dipankarqlik&show_icons=true&theme=gotham" alt="dipankarqlik" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankarqlik&langs_count=8" />
+</a>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dipankarqlik&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
 <h3>My latest posts</h3>
 <ul>
