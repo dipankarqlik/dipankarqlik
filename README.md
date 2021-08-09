@@ -29,18 +29,19 @@ Hi, I'm [Dipankar](https://dipankar.substack.com) and currently I am a Research 
 
 I am also a Visual Analytics Researcher at Dalhousie University and my latest work is on "Explainability of ensemble models" using multidimensional projection techniques. I have experience of 5+ years in the Data Science industry in various roles such as Visualization specialist/Data Science Engineer where I have developed and designed products for different clients in the field of healthcare, insurance, elevators, and financial domain primarily using tools & programming languages like Python, Qlik Sense, D3.js, Plotly/Dash, JavaScript(vanilla) & SQL.
 
-<h3>Things I code with</h3>
+<h3>Things I code with :</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=yellow" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-cc66ff?style=flat-square&logo=SmartThings&logoColor=black" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-668cff?style=flat-square&logo=plotly&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Flask-F05032?style=flat-square&logo=Flask&logoColor=black" />
   
 </p>
 
-📈 My Github stats
+📈 My Github stats :
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipankarqlik&show_icons=true&theme=gotham" alt="dipankarqlik" />
 
