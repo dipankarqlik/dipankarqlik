@@ -25,9 +25,9 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 <br />
 
-Hi, I'm [Dipankar](https://dipankar.substack.com) and currently I am a Research & Development Advocate at Qlik, where I primarily experiment with Qlik's Associative Engine to develop and advocate on state-of-the-art possibilities(in the field of Visual Analytics, Machine Learning) using our industry-leading SaaS solution. 
+Hi, I'm [Dipankar](https://dipankar.substack.com) and currently I am a Technical Advocate at Dremio where my primary focus is advocating data consumers(Analysts/Scientists/Engineers) on Dremio’s open lakehouse platform and various open-sourced project such as Apache Iceberg, Arrow & Project Nessie that helps engineering & research teams scale analytics. Most recently, I led the R&D Advocacy team at Qlik where I worked on key developer strategies & educated the worldwide developer community in the areas of Machine Learning/Visualization. I am also interested in Visual Analytics research & my latest work was on "Explainability of ensemble models" using multidimensional projection techniques.
 
-I am also a Visual Analytics Researcher at Dalhousie University and my latest work is on "Explainability of ensemble models" using multidimensional projection techniques. I have experience of 5+ years in the Data Science industry in various roles such as Visualization specialist/Data Science Engineer where I have developed and designed products for different clients in the field of healthcare, insurance, elevators, and financial domain primarily using tools & programming languages like Python, Qlik Sense, D3.js, Plotly/Dash, JavaScript(vanilla) & SQL.
+My past roles had a focus on Data Visualization & Predictive modelling and the ability to connect both to bring out interesting insights.
 
 <h3>Things I code with :</h3>
 <p>
